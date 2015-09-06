@@ -45,3 +45,6 @@ otherwise warnings and alarms are working.
 
 -Optimise the code in many ways. Low priority. Ill do it when i have no memory left or have to for some reason
 
+-Create schematic / circuit diagram
+
+-Explain use, calibration, ect
