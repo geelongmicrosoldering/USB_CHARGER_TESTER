@@ -23,7 +23,7 @@
                  I eventually want to be able to measure current too.
 -----------------------------------------------------------------------------------
 Minor Bugs:
------------ 
+-----------
 -Some kind of loop bug exists right now, so starting via serial (at the press a key prompt via serial monitor)
 will cause an infinite loop. Use the Start Button instead (connect startpin to gnd momentarily)
 
