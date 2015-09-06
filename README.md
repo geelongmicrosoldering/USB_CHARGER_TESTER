@@ -2,12 +2,12 @@
 Arduino based USB Charger Quality Tester - A war on cheap chargers
 
 
-                    Sketch/schematic by Ben Duffy,
-     http://microsoldering.com.au,geelongmicrosoldering@gmail.com
+                           Sketch/schematic by Ben Duffy,
+            http://microsoldering.com.au,geelongmicrosoldering@gmail.com
 
-         This code is in developement. It is likely to have bugs.
-         It is not optimised, and a web of horrible coding ideas.
-           I eventually want to be able to measure current too.
+                This code is in developement. It is likely to have bugs.
+                It is not optimised, and a web of horrible coding ideas.
+                  I eventually want to be able to measure current too.
 
 Features:
 ---------
